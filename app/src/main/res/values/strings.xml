@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">MyApp4</string>
+    <string name="buttonA">Get сharacter</string>
+
+    <string-array name="spinnerA">
+        <item>Red</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+    </string-array>
+
+    <string-array name="spinnerAcharacter">
+        <item>Ugly Ugly Ugly Ugly Ugly Ugly Ugly Ugly Ugly Ugly Ugly Ugly Ugly Ugly</item>
+        <item>Rude Rude Rude Rude Rude Rude Rude Rude Rude Rude Rude Rude Rude Rude</item>
+        <item>Tender Tender Tender Tender Tender Tender Tender Tender Tender Tender</item>
+        <item>Strange Strange Strange Strange Strange Strange Strange Strange Strange</item>
+        <item>Beautiful Beautiful Beautiful Beautiful Beautiful Beautiful Beautiful</item>
+    </string-array>
+</resources>

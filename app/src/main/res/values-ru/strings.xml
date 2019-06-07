@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp4</string>
+    <string name="buttonA">Получить характер</string>
+
+    <string-array name="spinnerA">
+        <item>Красный</item>
+        <item>Белый</item>
+        <item>Синий</item>
+        <item>Желтый</item>
+        <item>Черный</item>
+    </string-array>
+
+    <string-array name="spinnerAcharacter">
+        <item>Красный Красный Красный Красный Красный Красный Красный Красный Красный</item>
+        <item>Белый Белый Белый Белый Белый Белый Белый Белый Белый Белый Белый Белый</item>
+        <item>Синий Синий Синий Синий Синий Синий Синий Синий Синий Синий Синий Синий</item>
+        <item>Желтый Желтый Желтый Желтый Желтый Желтый Желтый Желтый Желтый Желтый Желтый</item>
+        <item>Черный Черный Черный Черный Черный Черный Черный Черный Черный Черный Черный</item>
+    </string-array>
+</resources>
